@@ -9,7 +9,7 @@ The play in question should be written down within the 'partia.txt' file (files 
 
 Within the application user may use arrow keys in order to rotate camera around the chessboard, use the spacebar to toggle pause (note that the pause is on by the default at the beggining of game) and 'r' key to reset current game and play it again from the start.
 
-The lights behind each player's starting position indicate which player is making the current move (green light) as well the game outcome (green light for the winner, red light for the player that lost - in case of a draw or an unfinished game both of the lights would be blue).
+The lights behind each player's starting position indicate which player is making the current move (green light) as well as the game's outcome (green light for the winner, red light for the player that lost - in case of a draw or an unfinished game both of the lights would be blue).
 
 -----------------
 
