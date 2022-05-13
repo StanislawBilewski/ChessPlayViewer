@@ -1,0 +1,9 @@
+//przyk³adowa partia
+e2-e4 e7-e5
+f2-f4 Gf8-c5
+Sg1-f3 Sg8-f6
+Gf1-a6 Wh8-f8
+f4:e5 Sf6:e4
+0-0 f7-f5
+e5:f6e.p. Hd8:f6
+

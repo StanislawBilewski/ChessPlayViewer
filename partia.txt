@@ -1,0 +1,48 @@
+//Bia³e: Garry Kasparov
+//Czarne: Veselin Topalov
+//1999
+//Wijk aan Zee, Holandia
+e2-e4 d7-d6
+d2-d4 Sg8-f6
+Sb1-c3 g7-g6
+Gc1-e3 Gf8-g7
+Hd1-d2 c7-c6
+f2-f3 b7-b5
+Sg1-e2 Sb8-d7
+Ge3-h6 Gg7:h6
+Hd2:h6 Gc8-b7
+a2-a3 e7-e5
+0-0-0 Hd8-e7
+Kc1-b1 a7-a6
+Se2-c1 0-0-0
+Sc1-b3 e5:d4
+Wd1:d4 c6-c5
+Wd4-d1 Sd7-b6
+g2-g3 Kc8-b8
+Sb3-a5 Gb7-a8
+Gf1-h3 d6-d5
+Hh6-f4 Kb8-a7
+Wh1-e1 d5-d4
+Sc3-d5 Sb6:d5
+e4:d5 He7-d6
+Wd1:d4 c5:d4
+We1-e7 Ka7-b6
+Hf4:d4 Kb6:a5
+b2-b4 Ka5-a4
+Hd4-c3 Hd6:d5
+We7-a7 Ga8-b7
+Wa7:b7 Hd5-c4
+Hc3:f6 Ka4:a3
+Hf6:a6 Ka3:b4
+c2-c3 Kb4:c3
+Ha6-a1 Kc3-d2
+Ha1-b2 Kd2-d1
+Gh3-f1 Wd8-d2
+Wb7-d7 Wd2:d7
+Gf1:c4 b5:c4
+Hb2:h8 Wd7-d3
+Hh8-a8 c4-c3
+Ha8-a4 Kd1-e1
+f3-f4 f7-f5
+Kb1-c1 Wd3-d2
+Ha4-a7 !
